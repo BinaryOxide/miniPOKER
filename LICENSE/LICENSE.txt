@@ -1,0 +1,40 @@
+BinaryOxide Personal/Non-Commercial License (BPNC 1.0)
+-------------------------------------------------------
+
+Copyright (c) 2025 Maruf Hasan (BinaryOxide)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software **for personal, educational, or 
+non-commercial purposes** only, subject to the following conditions:
+
+1. **Commercial Use Restriction**:
+   The Software may NOT be used for commercial, for-profit, or paid services
+   without explicit written permission from the copyright holder, Maruf Hasan.
+
+2. **Attribution**:
+   You must give appropriate credit to Maruf Hasan and BinaryOxide in any
+   copies or substantial portions of the Software, including in project
+   documentation, READMEs, or other materials.
+
+3. **No Warranty**:
+   The Software is provided "as-is", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, or non-infringement. In no event shall
+   the authors or copyright holders be liable for any claim, damages, or other
+   liability, whether in an action of contract, tort, or otherwise, arising
+   from, out of, or in connection with the Software or its use.
+
+4. **Contact for Commercial Use**:
+   To obtain permission for commercial or paid use, please contact:
+   
+       GitHub Issues: https://github.com/Binaryoxide/miniPOKER/issues
+       Email: 2009marufhasanpersonal@gmail.com
+
+5. **Redistribution**:
+   You may redistribute the Software in original or modified form **only under
+   these terms**.
+
+By using, copying, or modifying the Software, you agree to abide by this license.
+
+-------------------------------------------------------

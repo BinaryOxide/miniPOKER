@@ -1,0 +1,29 @@
+# ==========================
+# Visual Studio / C++ files
+# ==========================
+
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ipch
+*.log
+*.tlog
+*.ilk
+*.idb
+*.aps
+*.res
+*.opendb
+*.db
+*.suo
+*.cachefile
+*.user
+
+# Inno Setup output
+setup/*.exe
+
+# OS / system files
+Thumbs.db
+*.DS_Store
