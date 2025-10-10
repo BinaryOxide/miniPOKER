@@ -1,30 +1,52 @@
-# 🎴 MiniPOKER — Lightweight File Structure Preview Tool
+# 🎴 MiniPOKER v1.0 — Lightweight File Structure Preview Tool
 
-### Created by **Maruf Hasan** under **BinaryOxide**
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://github.com/BinaryOxide/miniPOKER)
+[![Version](https://img.shields.io/badge/Version-v1.0-orange.svg)]()
 
 ---
 
-## 🧩 Overview
+## 📝 About MiniPOKER
 
-**MiniPOKER** is a lightweight, console-based C++ application designed to generate and visualize **directory structures** in a clean, readable tree format — similar to the classic `tree` command, but smarter and more elegant.  
+**MiniPOKER** is a **lightweight, console-based C++ application** that allows developers, students, and creators to **instantly visualize directory structures** in a clean, color-coded tree format.  
 
-It helps developers, students, and creators **instantly view project structures** and share them easily across documentation, AI tools, or collaborators.
+Think of it as an **enhanced `tree` command**, designed for **documentation, collaboration, and AI-assisted project analysis**.
+
+> *“Understand any project at a glance, without opening hundreds of files.”*
+
+---
+
+## 🖼 Preview
+
+<p align="center">
+  <img src="assets/preview.png" alt="MiniPOKER Screenshot" width="600"/>
+</p>
 
 ---
 
 ## 🚀 Features
 
-✅ Displays the **full folder & file hierarchy** in a structured format  
-✅ Differentiates between **files, folders, and extensions**  
-✅ Lightweight and **zero dependency** (pure C++)  
-✅ Perfect for documentation, GitHub READMEs, or AI-assisted analysis  
-✅ Developed for **Windows Terminal / Command Prompt**
+| Feature | Description |
+|---------|-------------|
+| **Directory Tree Preview** | Generates a clear, hierarchical view of any folder path. |
+| **Color-Coded Output** | Differentiates folders, files, and extensions. |
+| **Lightweight & Fast** | Pure C++ code, zero external dependencies. |
+| **Documentation Ready** | Ideal for README.md, reports, or slides. |
+| **Windows Terminal / Command Prompt** | Runs directly in Windows terminal without extra setup. |
 
 ---
 
-## 🖥️ Example Output
+## 🛠 Installation
+
+1. Download the **[`miniPokerSetup.exe`](https://github.com/BinaryOxide/miniPOKER/releases)** from the Releases page.  
+2. Run the installer and follow the instructions.  
+3. Open **Command Prompt** or **Windows Terminal**.  
+4. Run the command:
 
 ```bash
+minipoker
+
+
 Enter Path: "H:\programming\projects\miniPOKER"
 
 miniPOKER\
