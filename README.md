@@ -8,6 +8,8 @@ However, the **source code is proprietary** and **cannot be shared, modified, or
 
 ---
 
+![Alt text](preview2.png)
+
 ## ⚡ Features
 - Lightweight and fast
 - Easy-to-use interface
